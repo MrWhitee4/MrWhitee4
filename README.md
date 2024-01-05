@@ -1,49 +1,38 @@
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Hack&color=%239315B7&lines=What's+up!+I'm+Leo+-+aka+p4p1)](https://git.io/typing-svg)-->
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/bGCuW8uql2kAAAAC/office-server.gif"  />
+</div>
 
+###
 
-Let's hope my blind XSS description payload hits somewhere :penguin:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrWhitee4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrWhitee4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## :name_badge: I'm a Cyber Security researcher and Developer!
-<img align="right" src="https://c.tenor.com/OKO48giZVgwAAAAC/school-superbad.gif" />
+###
 
-- :peach: I'm currently learning linux application programing 
-- :tangerine: I often lose my temper doing bug bounty
-- :tomato: I'm looking for help on my latest project p3ng0s and havoc-store
-- :watermelon: You can reach me via linkedin or twitter
-- :meat_on_bone: Fun fact, I love linux so much I made p3ng0s \o/
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
-## :notebook: Latest blog posts
-<!-- BLOG-POST-LIST:START -->
-- SOON
-<!-- BLOG-POST-LIST:END -->
+###
 
----
+<img src="https://raw.githubusercontent.com/MrWhitee4/MrWhitee4/output/snake.svg" alt="Snake animation" />
 
-[![stats](https://tryhackme.com/badge/2603953)][tryhackme]
+###
 
-<!--
-**p4p1/p4p1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://profile-counter.glitch.me/MrWhitee4/count.svg?"  />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## Description
-At the age of 13, I created my first ever computer virus on a Windows XP and
-since then have been obsessed with to Security Research and Software Development.
-I am currently working on getting my OSCP and Pentest+ to be an expert in the
-field on Information Security and pen-testing. On this github I have a lot of
-repositories ranging from my personnal work to my portfolio projects and
-School Projects.
--->
-
-[website]: XXX
-[linkedin]: XXX
-[tryhackme]: https://tryhackme.com/p/SliX
+###

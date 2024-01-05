@@ -27,10 +27,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MrWhitee4/MrWhitee4/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/MrWhitee4/count.svg?"  />
 </div>

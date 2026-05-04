@@ -100,12 +100,6 @@ I am especially interested in combining AI with cybersecurity and compliance to 
 ---
 
 <div align="center">
-
-  <img src="https://profile-counter.glitch.me/MrWhitee4/count.svg" alt="Profile Views" />
-  <br/>
-  <sub>👀 Profile Views</sub>
-
-  <br/><br/>
   
   ![](https://komarev.com/ghpvc/?username=MrWhitee4)
 

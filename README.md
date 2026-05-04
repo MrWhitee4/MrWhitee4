@@ -68,13 +68,6 @@ interests:   AI agents · Cybersecurity · Gaming · Automotive · System Optimi
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=MrWhitee4&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=400" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrWhitee4&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&card_width=300" height="160" alt="Top Languages" />
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MrWhitee4&theme=tokyonight&hide_border=true&date_format=j.%20M%5B.%20Y%5D" height="160" alt="GitHub Streak" />
 </div>
 

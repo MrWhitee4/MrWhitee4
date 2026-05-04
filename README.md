@@ -106,9 +106,7 @@ I am especially interested in combining AI with cybersecurity and compliance to 
   <sub>👀 Profile Views</sub>
 
   <br/><br/>
-
-  <a href="https://github.com/MrWhitee4">
-    <img src="https://img.shields.io/github/followers/MrWhitee4?label=Followers&style=for-the-badge&color=7dcfff&labelColor=1a1b27" alt="GitHub Followers"/>
-  </a>
+  
+  ![](https://komarev.com/ghpvc/?username=MrWhitee4)
 
 </div>

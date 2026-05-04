@@ -18,7 +18,6 @@ alias:       MrWhitee
 location:    Braunschweig, Germany 🇩🇪
 focus:       AI, IT Security & Compliance
 specialty:   Security automation, audit workflows, intelligent process design
-stack:       PowerShell · VBA/Excel · SQL (MariaDB) · Power BI · Copilot
 currently:   Building AI-supported compliance and risk management workflows
 interests:   AI agents · Cybersecurity · Gaming · Automotive · System Optimization
 ```

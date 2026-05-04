@@ -13,9 +13,9 @@
 ## 👾 About Me
 
 ```yaml
-name:        Costa Jankowski
+name:        Konstantin
 alias:       MrWhitee
-location:    Berlin, Germany 🇩🇪
+location:    Braunschweig, Germany 🇩🇪
 focus:       AI, IT Security & Compliance
 specialty:   Security automation, audit workflows, intelligent process design
 stack:       PowerShell · VBA/Excel · SQL (MariaDB) · Power BI · Copilot
